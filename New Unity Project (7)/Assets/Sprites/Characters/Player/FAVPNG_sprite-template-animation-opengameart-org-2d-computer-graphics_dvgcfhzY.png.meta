@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 5c837e8b07d79774e97316814fbefaf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5624703629350517455
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_0
+  - first:
+      213: -4967839510353368416
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_1
+  - first:
+      213: 3391642381252924460
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_2
+  - first:
+      213: 5734806673654037889
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_3
+  - first:
+      213: -1106006861057427402
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_4
+  - first:
+      213: -8109856045031140077
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_5
+  - first:
+      213: 7806560691737110363
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_6
+  - first:
+      213: -27619653702827448
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_7
+  - first:
+      213: -866023427638585299
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_8
+  - first:
+      213: 7681201443960901502
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_9
+  - first:
+      213: -2118304887246398490
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_10
+  - first:
+      213: -596568090363333727
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_11
+  - first:
+      213: -4647300043636022704
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_12
+  - first:
+      213: -2960185856902628809
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_13
+  - first:
+      213: -8843083443570609134
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_14
+  - first:
+      213: 3112356639922625209
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_15
+  - first:
+      213: 7832009754656339626
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_16
+  - first:
+      213: 845341852339518285
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_17
+  - first:
+      213: -8901205488370601605
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_18
+  - first:
+      213: 4478701600116176807
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_19
+  - first:
+      213: -3299910419154666547
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_20
+  - first:
+      213: -1798908283944496070
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_21
+  - first:
+      213: -2377808924889106457
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_22
+  - first:
+      213: -1980311534020300561
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_23
+  - first:
+      213: 9081739731312451963
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_24
+  - first:
+      213: -8420089859078518761
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_25
+  - first:
+      213: 481056624754139828
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_26
+  - first:
+      213: -3846375214253275769
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_27
+  - first:
+      213: 4551256898807436801
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_28
+  - first:
+      213: 3711508192171362131
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_29
+  - first:
+      213: 6392966967498497815
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_30
+  - first:
+      213: -6455410542346785493
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_31
+  - first:
+      213: 7832989682751771853
+    second: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 431
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84165055275359479ed916ae3ed0dae
+      internalID: -5624703629350517455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 426
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bab9a3a3e33ae4791dcd428dec9415
+      internalID: -4967839510353368416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 433
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7938520a96d53a45bd031e34d71e0e4
+      internalID: 3391642381252924460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 435
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812513a74c758c7479f36f584da25a44
+      internalID: 5734806673654037889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 427
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bb35929d8dd745a4b7bdc10cd275d
+      internalID: -1106006861057427402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 433
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc865e50416a34e856be6145e475cc
+      internalID: -8109856045031140077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 435
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29c1fd30fccea146a2abff805631e5a
+      internalID: 7806560691737110363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_7
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 426
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf1b6b61359e8840b9004e5ec56248d
+      internalID: -27619653702827448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 332
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e11999cbfe200a458c21f76eb4b6ee4
+      internalID: -866023427638585299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 326
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871aea1213f4944f9cb4e174ae819db
+      internalID: 7681201443960901502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 330
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b91113c0d62e42859d12aab0819e7
+      internalID: -2118304887246398490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 327
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57127eb624039045b60f61119e9c020
+      internalID: -596568090363333727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 327
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa3b1f12a898843802b2d1637737cf
+      internalID: -4647300043636022704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 330
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7dae9f79433146b9f3485841b54e9
+      internalID: -2960185856902628809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 330
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f5f3f9598baf4c9266789566eff79
+      internalID: -8843083443570609134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 335
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2178ea27ec6f014084366ce299d4249
+      internalID: 3112356639922625209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 226
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991e205f2b0d614b9673cacd3fc308d
+      internalID: 7832009754656339626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f6c9fac48493b4ab1610a10adb22ec
+      internalID: 845341852339518285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 230
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0133a70956ae349858fab8ea596432
+      internalID: -8901205488370601605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 229
+        width: 27
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb1673afdc8ab74e8bdf3d856f8bd70
+      internalID: 4478701600116176807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 232
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0415d8809a20c54418d6366686ac4ca4
+      internalID: -3299910419154666547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 228
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ac037abbe74f458381ca1fe07afeb
+      internalID: -1798908283944496070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 228
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105227e614e2854e8e0033b2990185e
+      internalID: -2377808924889106457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 234
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01cece676cd424daf978383bc0b31b
+      internalID: -1980311534020300561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 125
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982bd766206cff44fa3604c9ef85fc9d
+      internalID: 9081739731312451963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 33
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d42fd28d25f3e45aac248d59b9a113
+      internalID: -8420089859078518761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115ded4f009ccf4787aa146f48e1ff2
+      internalID: 481056624754139828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361ac00e4fbea3458dbb622ca6c6905
+      internalID: -3846375214253275769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 130
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526a40445198ca4aaff50fbc2e8c431
+      internalID: 4551256898807436801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 127
+        width: 33
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13213925341bb7f4bb24a11458a91670
+      internalID: 3711508192171362131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_30
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 128
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025f2fa5b5546e64aa1b8a40bbfa25da
+      internalID: 6392966967498497815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_31
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 136
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ac6ab04666e248ba2435d31353e6e
+      internalID: -6455410542346785493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAVPNG_sprite-template-animation-opengameart-org-2d-computer-graphics_dvgcfhzY_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5e9964da541049af12d0f4fe82f0d
+      internalID: 7832989682751771853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

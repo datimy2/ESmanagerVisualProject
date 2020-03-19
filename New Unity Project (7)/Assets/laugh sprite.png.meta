@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 26ccc44b836298b4c8ff45449e7e1db3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4802779036261869493
+    second: laugh sprite_0
+  - first:
+      213: -7124766760354163762
+    second: laugh sprite_1
+  - first:
+      213: -6622164694949147892
+    second: laugh sprite_2
+  - first:
+      213: -6788547094938934695
+    second: laugh sprite_3
+  - first:
+      213: -3013845634379741002
+    second: laugh sprite_4
+  - first:
+      213: -1340580726741838697
+    second: laugh sprite_5
+  - first:
+      213: -8903072389757016491
+    second: laugh sprite_6
+  - first:
+      213: -4632062823449181455
+    second: laugh sprite_7
+  - first:
+      213: -4374112841499783229
+    second: laugh sprite_8
+  - first:
+      213: -8432757346003603237
+    second: laugh sprite_9
+  - first:
+      213: 243407947606163960
+    second: laugh sprite_10
+  - first:
+      213: -2626976593639601688
+    second: laugh sprite_11
+  - first:
+      213: -5395224389125522
+    second: laugh sprite_12
+  - first:
+      213: -6479960544668404135
+    second: laugh sprite_13
+  - first:
+      213: -1059615826105467988
+    second: laugh sprite_14
+  - first:
+      213: 4958895807085895208
+    second: laugh sprite_15
+  - first:
+      213: -7190487242317479039
+    second: laugh sprite_16
+  - first:
+      213: -6010484816922736543
+    second: laugh sprite_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laugh sprite_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2057
+        width: 879
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33c23277a6e2d428fd332c1373dcf6
+      internalID: 4802779036261869493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2057
+        width: 879
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242369c33b2225f44acc824e7d4b3419
+      internalID: -7124766760354163762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2057
+        width: 879
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5771af0c565979498057a629b5d5ceb
+      internalID: -6622164694949147892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2057
+        width: 881
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf4b60b918bde45a2d609ac8caf0d9
+      internalID: -6788547094938934695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_4
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 2057
+        width: 879
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ccee7ec17ea894894c819822070c9f
+      internalID: -3013845634379741002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1056
+        width: 892
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea32109aff39de8479be438e5857cff0
+      internalID: -1340580726741838697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1056
+        width: 923
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f058e36df17fde546a434411f2abb30a
+      internalID: -8903072389757016491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1056
+        width: 950
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33016dde4998840b6979b56b20c8d4
+      internalID: -4632062823449181455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1056
+        width: 947
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61f579f0212d4449694c159809112d
+      internalID: -4374112841499783229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_9
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 1056
+        width: 942
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59dfccef46df041bd0fb8d848be8df
+      internalID: -8432757346003603237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57
+        width: 935
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5937bd8025efa6429fd9d43db630b11
+      internalID: 243407947606163960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 57
+        width: 931
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0773ea9d2a3d0b44a8f3ccd85261e00
+      internalID: -2626976593639601688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 57
+        width: 879
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c866345aaf8314a934aa77592e04b7
+      internalID: -5395224389125522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 372
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198448676ee8d744add2cfb29bf9fbc
+      internalID: -6479960544668404135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 57
+        width: 881
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a4a34428edfcc4b9d2c5e1ed8de0ff
+      internalID: -1059615826105467988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 363
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4045461f17eeeb04bbff245c7ec349cb
+      internalID: 4958895807085895208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 57
+        width: 879
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263efda2f93fdb49a7003ada7ef3e36
+      internalID: -7190487242317479039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laugh sprite_17
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 350
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be81074e66e19c438a81537c4fff7f9
+      internalID: -6010484816922736543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
